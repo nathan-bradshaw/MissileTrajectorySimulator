@@ -1,5 +1,7 @@
 ## Missile Trajectory Simulator
 
+![screenshot](example.png)
+
 This program simulates the trajectory of missiles based on user-provided parameters such as initial velocity, launch angle, gravitational acceleration, and time to impact. It calculates various parameters related to the missile's trajectory and provides a visualization of the trajectory using ASCII art.
 
 ### Source Files
